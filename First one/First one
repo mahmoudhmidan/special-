@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equive="X-UA-compatible" content="IE=edge">
+        <meta name="view port" content="width=device-width" intial-scale="1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+        <link rel="stylesheet" href="style.css">
+        <title>Mahmoud Hmidan</title>
+    </head>
+    <body>
+        <header>
+            <a href="#" class="logo"> Mahmoud</a>
+            <nav class="navigation">
+                <a href="#services" >services</a>
+                <a href="#project">project</a>
+                <a href="https://mahmoudhmidan99@gmail.com">contact</a>
+            </nav>
+        </header>
+        <section class="main">
+            <div>
+                <h2>Hello , I am Mahmoud<br><span> a Web designer</span></h2>
+                <h3> Example the only way to learn </h3>
+                <a href="#project" class="main-btn">view my work</a>
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/profile.php?id=100010682415977&mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+                    <a href=" https://wa.me/qr/XXECDNZTZKZRF1"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="https://twitter.com/mahmoud_hmidan?t=Kx8eBZHWpt5pT6ZbLL5Mqw&s=09"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="https://instagram.com/ma7moud_7medan?igshid=YzgyMTM2MGM="><i class="fa-brands fa-instagram"></i></a>
+                </div>
+            </div>
+        </section>
+        <section class="cards" id="services">
+            <h2 class="title">services</h2>
+            <div class="content">
+                <div class="card">
+                    <div class="icon">
+                        <i class="fas fa-band-aid"></i>
+                    </div>
+                    <div class="info">
+                       <a href="https://www.facebook.com/profile.php?id=100010682415977&mibextid=ZbWKwL"> <h3>YOUTUBE</h3></a>
+                        <p>to see some design about my job</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="icon">
+                        <i class="fas fa-band-aid"></i>
+                    </div>
+                    <div class="info">
+                        <h3>Twitter</h3>
+                        <p>to see some design about my job</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="projects" id="project">
+            <h2 class="title" >project</h2>
+            <div class="content"></div>
+            <div class="project_card">
+                <div class="project_image">
+                    <img src="1656682467530.jpg">
+                    <div class="project_info">
+                        <p class="project_category">script writing and video production</p>
+                        <strong class="project_title">
+                            <span>DEV BOOKS</span>
+                            <a href="#" class="more_details">more details</a>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="cards contact" id="contact">
+            <h2 class="title">let's work together</h2>
+            <div class="content">
+                <div class="card">
+                    <div class="icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <div class="info">
+                        <h3>phone</h3>
+                        <p>+91 *********</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="info">
+                        <h3>E-mail</h3>
+                        <p>mahmoudhmidan99@gmail.com</p>
+                    </div>
+                    </div>
+        </section>
+        <footer class="footer">
+            <p>CopyRights @ <span>Mahmoud Hmidan</span></p>
+            <div class="social-icons">
+                <a href="https://www.facebook.com/profile.php?id=100010682415977&mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+                <a href=" https://wa.me/qr/XXECDNZTZKZRF1"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="https://twitter.com/mahmoud_hmidan?t=Kx8eBZHWpt5pT6ZbLL5Mqw&s=09"><i class="fa-brands fa-twitter"></i></a>
+                <a href="https://instagram.com/ma7moud_7medan?igshid=YzgyMTM2MGM="><i class="fa-brands fa-instagram"></i></a>
+            </div>
+        </footer>
+    </body>
+</html>
